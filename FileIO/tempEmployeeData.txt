@@ -1,0 +1,9 @@
+101;Ahmmed;18;Male;01737718866;Manager;25000;The Kitchen;
+102;Abir;19;Male;017374243544;Kitchen Staff;2000;The Kitchen;
+103;Adib;18;Male;01737718844;Waiter;2000;The Kitchen;
+104;Ahsan;18;Male;01382479445;Kitchen Staff;1200.0;The Kitchen;
+001;Nasif;19;Male;017457474;Kitchen Staff;1200.0;The Kitchen;
+002;Akib;30;Male;0175475776;Waiter/Waitress;1500.0;The Kitchen;
+003;Nafi;18;Male;0133556788;Accountant;2000.0;SWARMA HOUSE;
+004;Asfi;19;Male;01764334444;Waiter/Waitress;1000.0;Dhakaiya Chap;
+005;Nasrullah;19;Female;01767064956;Kitchen Staff;2000.0;SUBWAY.BD

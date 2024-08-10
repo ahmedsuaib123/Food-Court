@@ -1,0 +1,3 @@
+101;Ahmmed;18;Male;01737718866;Manager;25000;The Kitchen;
+102;Abir;19;Male;017374243544;Kitchen Staff;2000;The Kitchen;
+103;Adib;18;Male;01737718844;Waiter;2000;The Kitchen;
